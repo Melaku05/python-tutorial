@@ -206,3 +206,5 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 [2022-11-27T15:18:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
 [2022-11-27T15:18:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
 JavaScript error: , line 0: uncaught exception: undefined
+1669563238163	Marionette	INFO	Stopped listening on port 35471
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
